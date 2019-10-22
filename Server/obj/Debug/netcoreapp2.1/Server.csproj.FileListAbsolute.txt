@@ -1,0 +1,10 @@
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/bin/Debug/netcoreapp2.1/Server.deps.json
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/bin/Debug/netcoreapp2.1/Server.runtimeconfig.json
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/bin/Debug/netcoreapp2.1/Server.runtimeconfig.dev.json
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/bin/Debug/netcoreapp2.1/Server.dll
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/bin/Debug/netcoreapp2.1/Server.pdb
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/obj/Debug/netcoreapp2.1/Server.csprojAssemblyReference.cache
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/obj/Debug/netcoreapp2.1/Server.AssemblyInfoInputs.cache
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/obj/Debug/netcoreapp2.1/Server.AssemblyInfo.cs
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/obj/Debug/netcoreapp2.1/Server.dll
+/Users/zhenidimitrova/Projects/RawdataAssignment3/Server/obj/Debug/netcoreapp2.1/Server.pdb
